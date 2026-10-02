@@ -1,0 +1,6 @@
+{
+  "name": "RGSTUDIO // FiveM Video & Photo Portfolio",
+  "description": "Portofolio kreatif RGSTUDIO: jasa video cinematic FiveM, photoshoot karakter roleplay, server trailer, dan montage visual bergaya neo-brutalism dengan direct order ke Discord.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
